@@ -1,0 +1,8 @@
+﻿  Struct_1.c
+C:\BelajarPemrograman\C\TipeDataStruct__C\Struct_1.c(14): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\BelajarPemrograman\C\TipeDataStruct__C\Struct_1.c(21): warning C4087: '_getch': declared with 'void' parameter list
+C:\BelajarPemrograman\C\TipeDataStruct__C\Struct_1.c(24): warning C4013: 'main2' undefined; assuming extern returning int
+C:\BelajarPemrograman\C\TipeDataStruct__C\Struct_1.c(56): warning C4087: '_getch': declared with 'void' parameter list
+C:\BelajarPemrograman\C\TipeDataStruct__C\Struct_1.c(59): warning C4013: 'main3' undefined; assuming extern returning int
+C:\BelajarPemrograman\C\TipeDataStruct__C\Struct_1.c(71): warning C4013: 'gets' undefined; assuming extern returning int
+  TipeDataStruct__C.vcxproj -> C:\BelajarPemrograman\C\TipeDataStruct__C\Debug\TipeDataStruct__C.exe
